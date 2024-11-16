@@ -3,7 +3,7 @@ import { Card, Button } from 'react-bootstrap';
 
 const ImageCard = ({ image, deleteImage }) => {
   return (
-    <Card style={{ width: '18rem' }}>
+    <Card style={{ width: '20rem' }}>
       <Card.Img variant="top" src={image.urls.small} />
       <Card.Body>
         <Card.Title>{image.title.toUpperCase()}</Card.Title>

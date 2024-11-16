@@ -5,7 +5,7 @@ function Welcome() {
   return (
     <div className="jumbotron">
       <h1>Imagine, Search, Enjoy!</h1>
-      <p>Search for something pleighboi!</p>
+      <p>Search for anything!</p>
       <p>
         <Button variant="primary" href="https://unsplash.com" target="_blank">
           Learn more
