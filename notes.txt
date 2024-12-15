@@ -1,1 +1,1 @@
-mongo express user and paword is admin:pass
+mongo express user and password is admin:pass
