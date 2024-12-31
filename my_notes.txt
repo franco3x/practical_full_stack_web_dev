@@ -1,0 +1,5 @@
+# start up a docker container
+docker-compose up -d
+
+# mongo express
+admin pass
