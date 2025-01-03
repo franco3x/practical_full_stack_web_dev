@@ -28,19 +28,21 @@ Containerization: Docker
 
 ## Project Structure
 
-project-folder/
+images_gallery/
 ├── api/
 │   ├── main.py
 │   ├── mongo_client.py
 │   ├── requirements.txt
 │   ├── docker-compose.yml
 ├── frontend/
-│   ├── App.js
-│   ├── Header.js
-│   ├── ImageCard.js
-│   ├── Search.js
-│   ├── Spinner.js
-│   ├── Welcome.js
+│   ├── src
+│       ├── App.js
+│   ├── components
+│       ├── Header.js
+│       ├── ImageCard.js
+│       ├── Search.js
+│       ├── Spinner.js
+│       ├── Welcome.js
 
 ## API Folder
 
