@@ -1,5 +1,6 @@
 # start up a docker container
-docker-compose up -d
+- docker-compose up -d
+- do all docker-compose actions in the images_gallery folder
 
 # mongo express
 admin pass
@@ -12,3 +13,8 @@ admin pass
 - DELETE - Delete resource
 - HEAD - Request only headers
 - OPTIONS - Describe commmunication oprtion for target resource
+
+# Resources
+- React https://react-bootstrap.github.io/
+- NPM https://www.npmjs.com/
+- React Toastify https://www.npmjs.com/package/react-toastify
